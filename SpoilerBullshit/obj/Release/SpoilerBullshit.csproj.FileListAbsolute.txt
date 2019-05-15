@@ -1,0 +1,9 @@
+C:\Users\Dark\source\repos\SpoilerBullshit\SpoilerBullshit\bin\Release\SpoilerBullshit.exe
+C:\Users\Dark\source\repos\SpoilerBullshit\SpoilerBullshit\bin\Release\SpoilerBullshit.pdb
+C:\Users\Dark\source\repos\SpoilerBullshit\SpoilerBullshit\obj\Release\SpoilerBullshit.Form1.resources
+C:\Users\Dark\source\repos\SpoilerBullshit\SpoilerBullshit\obj\Release\SpoilerBullshit.Properties.Resources.resources
+C:\Users\Dark\source\repos\SpoilerBullshit\SpoilerBullshit\obj\Release\SpoilerBullshit.csproj.GenerateResource.cache
+C:\Users\Dark\source\repos\SpoilerBullshit\SpoilerBullshit\obj\Release\SpoilerBullshit.csproj.CoreCompileInputs.cache
+C:\Users\Dark\source\repos\SpoilerBullshit\SpoilerBullshit\obj\Release\SpoilerBullshit.exe
+C:\Users\Dark\source\repos\SpoilerBullshit\SpoilerBullshit\obj\Release\SpoilerBullshit.pdb
+C:\Users\Dark\source\repos\SpoilerBullshit\SpoilerBullshit\obj\Release\SpoilerBullshit.csprojAssemblyReference.cache
